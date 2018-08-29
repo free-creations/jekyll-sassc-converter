@@ -7,7 +7,7 @@ It shall:
 1. use the 
   [sassc gem](https://github.com/sass/sassc-ruby#readme)
   insted of the now deprecated [Ruby Sass gem](https://github.com/sass/ruby-sass)
-2. Produce Source maps per default.
+2. Produce Source maps for debugging.
 3. Interface to twitter's [Bootstrap 4 ruby gem](https://github.com/twbs/bootstrap-rubygem) 
 4. Build  the __css__ depending on Jekyll's _environment option_. 
    - If the
